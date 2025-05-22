@@ -19,6 +19,7 @@
   "homepage": "https://github.com/aliasfrance/2410-NoseJS-Article#readme",
   "dependencies": {
     "express": "^5.1.0",
+    "mongoose": "^8.15.0",
     "nodemon": "^3.1.10"
   }
 }
